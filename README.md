@@ -27,7 +27,11 @@ Toolkit to download recordings from Panopto.com
 ## UI Application Usage  
 
 1. Start application (see above section), the following UI should be displayed:
+<img src="assets/app.png" width="500"/>
+
 2. Open Panopto recording on web browser, and click the 'Download' button at the bottom left of the page. This will automatically copy a link for you:
+<img src="assets/example.png" width="1000"/>
+
 3. Create a recordings folder in your local directory to store file recordings
 	- `$ mkdir recordings`
 	- The supported extensions of the downloaded recording include: `.mp4`, `.mkv`, `.flv`, `.avi`
