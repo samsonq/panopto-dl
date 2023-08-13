@@ -31,7 +31,7 @@ except Exception as e:
 
 setup(
     name="panopto_dl",
-    version="0.1.0",
+    version="0.1.1",
     author="Samson Qian",
     author_email="samsonqian@gmail.com",
     packages=["panopto_dl", "panopto_dl.PanoptoDownloader"],
