@@ -7,7 +7,7 @@ class View:
     def __init__(self, root: Tk):
         self.__root = root
 
-        self.__root.title('panopto-dl')
+        self.__root.title('panopto_dl')
         self.__root.geometry('500x290')
         self.__root.resizable(False, False)
 
