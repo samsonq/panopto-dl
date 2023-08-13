@@ -1,6 +1,6 @@
 # PanoptoDownloader
 
-Download video from Panopto!  
+Toolkit to download video from Panopto!  
 
 ## Prerequisites  
 
