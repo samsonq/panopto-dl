@@ -3,9 +3,9 @@ from setuptools import setup, find_packages
 from PanoptoDownloader import __version__
 
 
-with open('./README.md', 'r') as fp:
+with open('README_module.md', 'r') as fp:
     long_description = fp.read()
-with open('requirements.txt', 'r') as fp:
+with open('requirements_panopto.txt', 'r') as fp:
     install_requires = fp.read().strip().split('\n')
 
 
