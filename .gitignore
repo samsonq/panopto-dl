@@ -130,3 +130,12 @@ dmypy.json
 .DS_Store
 .idea
 recordings
+
+# Google Drive
+credentials.json
+token.pickle
+token.json
+test.txt
+
+# recordings
+*.mp4
